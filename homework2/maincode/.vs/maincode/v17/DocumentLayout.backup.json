@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\glebasjanl\\Desktop\\miigaik_gleb\\C\u002B\u002B\\homework2\\maincode\\",
+  "WorkspaceRootPath": "C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework2\\maincode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\glebasjanl\\Desktop\\miigaik_gleb\\C\u002B\u002B\\homework2\\maincode\\maincode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:maincode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2E492DD5-134C-9483-A1EE-C9DABA804943}|..\\UnitTest1\\UnitTest1.vcxproj|C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework2\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69478825-36FC-48C9-803A-479FC6EC702B}|maincode.vcxproj|C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework2\\maincode\\maincode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{69478825-36FC-48C9-803A-479FC6EC702B}|maincode.vcxproj|solutionrelative:maincode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,12 +26,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework2\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "..\\UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowCYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-20T16:33:58.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "maincode.cpp",
-              "DocumentMoniker": "C:\\Users\\glebasjanl\\Desktop\\miigaik_gleb\\C\u002B\u002B\\homework2\\maincode\\maincode.cpp",
+              "DocumentMoniker": "C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework2\\maincode\\maincode.cpp",
               "RelativeDocumentMoniker": "maincode.cpp",
-              "ToolTip": "C:\\Users\\glebasjanl\\Desktop\\miigaik_gleb\\C\u002B\u002B\\homework2\\maincode\\maincode.cpp",
+              "ToolTip": "C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework2\\maincode\\maincode.cpp",
               "RelativeToolTip": "maincode.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-20T13:08:49.746Z",
               "EditorCaption": ""

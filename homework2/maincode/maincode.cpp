@@ -40,7 +40,7 @@ int main() {
     setlocale(LC_ALL, "rus");
     double a = 5;
     double b = 7;
-    int n = 100000;   
+    int n = 1;   
 
     double result1 = simpson_method(func1, a, b, n);
     cout << "Численное значение интеграла: " << result1 << endl;
