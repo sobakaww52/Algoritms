@@ -45,6 +45,8 @@ int main() {
     double result1 = simpson_method(func1, a, b, n);
     cout << "Численное значение интеграла: " << result1 << endl;
 
+    cout << 4 % 8;
+
 
     double result2 = simpson_method(func2, a, b, n);
     cout << "Численное значение интеграла: " << result2 << endl;
