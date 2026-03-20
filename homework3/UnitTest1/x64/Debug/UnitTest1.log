@@ -1,0 +1,6 @@
+﻿  UnitTest1.cpp
+C:\Users\glebasjanl\Desktop\miigaik_gleb\C++\homework3\ConsoleApplication1\ConsoleApplication1.cpp(30,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "/UnitTest1.cpp")
+  
+     Создается библиотека C:\Users\glebasjanl\Desktop\miigaik_gleb\C++\homework3\ConsoleApplication1\x64\Debug\UnitTest1.lib и объект C:\Users\glebasjanl\Desktop\miigaik_gleb\C++\homework3\ConsoleApplication1\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\glebasjanl\Desktop\miigaik_gleb\C++\homework3\ConsoleApplication1\x64\Debug\UnitTest1.dll
