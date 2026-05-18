@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\glebasjanl\\Desktop\\miigaik_gleb\\C\u002B\u002B\\homework4\\ConsoleApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework4\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5883338F-07D2-4072-9387-EF56D30AE3B0}|ConsoleApplication1.vcxproj|C:\\Users\\glebasjanl\\Desktop\\miigaik_gleb\\C\u002B\u002B\\homework4\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5883338F-07D2-4072-9387-EF56D30AE3B0}|ConsoleApplication1.vcxproj|C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework4\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5883338F-07D2-4072-9387-EF56D30AE3B0}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication1.cpp",
-              "DocumentMoniker": "C:\\Users\\glebasjanl\\Desktop\\miigaik_gleb\\C\u002B\u002B\\homework4\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework4\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
-              "ToolTip": "C:\\Users\\glebasjanl\\Desktop\\miigaik_gleb\\C\u002B\u002B\\homework4\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework4\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeToolTip": "ConsoleApplication1.cpp",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAcwFAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-17T17:17:23.533Z",
               "EditorCaption": ""

@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\glebasjanl\\Desktop\\miigaik_gleb\\C\u002B\u002B\\homework4\\ConsoleApplication1\\",
+  "WorkspaceRootPath": "C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework4\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5883338F-07D2-4072-9387-EF56D30AE3B0}|ConsoleApplication1.vcxproj|C:\\Users\\glebasjanl\\Desktop\\miigaik_gleb\\C\u002B\u002B\\homework4\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5883338F-07D2-4072-9387-EF56D30AE3B0}|ConsoleApplication1.vcxproj|C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework4\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5883338F-07D2-4072-9387-EF56D30AE3B0}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +25,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\vector",
+              "ViewState": "AgIAAHYHAAAAAAAAAADwv4YHAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-18T00:32:40.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication1.cpp",
-              "DocumentMoniker": "C:\\Users\\glebasjanl\\Desktop\\miigaik_gleb\\C\u002B\u002B\\homework4\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework4\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
-              "ToolTip": "C:\\Users\\glebasjanl\\Desktop\\miigaik_gleb\\C\u002B\u002B\\homework4\\ConsoleApplication1\\ConsoleApplication1.cpp*",
+              "ToolTip": "C:\\Users\\glebasjanl\\Documents\\GitHub\\Algoritms\\homework4\\ConsoleApplication1\\ConsoleApplication1.cpp*",
               "RelativeToolTip": "ConsoleApplication1.cpp*",
-              "ViewState": "AgIAADoAAAAAAAAAAAAcwFMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAF0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-17T17:17:23.533Z",
               "EditorCaption": ""

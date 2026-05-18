@@ -49,19 +49,29 @@ void quikSort(vector<int>& arr, int down, int up, int num_threads) {
     if (down < up) {
         int reference_index = share(arr, down, up);
 
+        int left_podmassiv = reference_index - down;
+        int right_podmassiv = up - reference_index;
+
 
         mtx.lock();
         if (active_threads < num_threads) {
             
             active_threads++;
             mtx.unlock();
+            if (left_podmassiv > right_podmassiv) {
+                thread t(quikSort, ref(arr), down, reference_index - 1, num_threads);
+                quikSort(arr, reference_index + 1, up, num_threads);
+                t.join();
+            }
+            else {
+                thread t(quikSort, ref(arr), reference_index + 1, up, num_threads);
+                quikSort(arr, down, reference_index - 1, num_threads);
+                t.join();
+            }
 
-            thread t(quikSort, ref(arr), down, reference_index - 1, num_threads);
+            
 
-            quikSort(arr, reference_index + 1, up, num_threads);
-
-            t.join(); 
-
+          
             mtx.lock();
             active_threads--; 
             mtx.unlock();
@@ -78,7 +88,7 @@ void quikSort(vector<int>& arr, int down, int up, int num_threads) {
 
 int main() {
     setlocale(LC_ALL, "rus");
-    const int n = 2000000;
+    const int n = 1500000;
     vector<int> arr = createRandomArray(n);
 
     int threads_to_test = 8; 
